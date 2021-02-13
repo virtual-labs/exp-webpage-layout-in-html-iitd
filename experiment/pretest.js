@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "webpage layout is very important to give better look to your website. State True Or False.",
+      question: "Webpage layout is very important to give better look to your website. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "we can use table tag for creating webpage layout. State True Or False",
+      question: "We can use table tag for creating webpage layout. State True Or False",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Which ‹table› tag is used to create a webpage layout",
+      question: "Which â€¹tableâ€º tag is used to create a webpage layout",
       answers: {
         a: "tr",
         b: "td",
