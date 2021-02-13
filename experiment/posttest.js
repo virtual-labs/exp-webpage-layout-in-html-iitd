@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "We can also create webpage layout using ‹div› tag. State True Or False.",
+      question: "We can also create webpage layout using â€¹divâ€º tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -98,7 +98,7 @@
     },
 
     {
-      question: " Select the html tag required for the designing a web page layout.",
+      question: "Select the html tag required for the designing a web page layout.",
       answers: {
         a: "table",
         b: "image",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: " Inserting a table inside another table is called ____________.",
+      question: "Inserting a table inside another table is called ____________.",
       answers: {
         a: "linked tables",
         b: "nested tables",
