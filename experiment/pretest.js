@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Webpage layout is very important to give better look to your website. State True Or False.",
+      question: "Q1. Webpage layout is very important to give better look to your website. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "We can use table tag for creating webpage layout. State True Or False",
+      question: "Q2. We can use table tag for creating webpage layout. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Which ‹table› tag is used to create a webpage layout",
+      question: "Q3. Which ‹table› tag is used to create a webpage layout.",
       answers: {
         a: "tr",
         b: "td",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Which tag is used to create image in webpage layout?",
+      question: "Q4. Which tag is used to create image in webpage layout?",
       answers: {
         a: "img",
         b: "image",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Which tag is used to create largest heading in webpage layout",
+      question: "Q5. Which tag is used to create largest heading in webpage layout.",
       answers: {
         a: "h1",
         b: "h2",
