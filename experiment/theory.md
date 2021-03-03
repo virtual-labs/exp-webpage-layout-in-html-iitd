@@ -6,13 +6,13 @@ Now-a-days, all modern websites are using CSS and JavaScript based framework to 
 
 This chapter will give you few examples on how to create a simple but working layout for your webpage using pure HTML and its attributes.
 
-Note: The simplest and most popular way of creating layouts is using HTML ‹table› tag. These tables are nested together and arranged in columns and rows, so you can utilize these rows and columns in whatever way you like.
+#### Note: The simplest and most popular way of creating layouts is using HTML ‹table› tag. These tables are nested together and arranged in columns and rows, so you can utilize these rows and columns in whatever way you like.
 
 
 
 
  
-    	
+    	  
   	 
   	  
   
