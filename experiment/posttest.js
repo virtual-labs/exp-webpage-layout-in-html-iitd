@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "We can also create webpage layout using ‹div› tag. State True Or False.",
+      question: "Q1. We can also create webpage layout using ‹div› tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Indentation while writing the code increases readability as well as modifiability of the code.",
+      question: "Q2. Indentation while writing the code increases readability as well as modifiability of the code.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the html tag required for the designing a web page layout.",
+      question: "Q3. Select the html tag required for the designing a web page layout.",
       answers: {
         a: "table",
         b: "image",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Inserting a table inside another table is called ____________.",
+      question: "Q4. Inserting a table inside another table is called ____________.",
       answers: {
         a: "linked tables",
         b: "nested tables",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Select the correct attribute to be used with body tag for inserting image in the background of web page.",
+      question: "Q5. Select the correct attribute to be used with body tag for inserting image in the background of web page.",
       answers: {
         a: "background",
         b: "body bgimg",
