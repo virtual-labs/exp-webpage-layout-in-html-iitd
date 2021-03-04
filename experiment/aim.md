@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of web page layout in HTML.
+- Demonstrate working of web page layout in HTML.
 - Create web page layout in HTML pages through proper syntax.
