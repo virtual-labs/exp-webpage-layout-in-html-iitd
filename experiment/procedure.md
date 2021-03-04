@@ -1,4 +1,4 @@
-##### These procedure steps will be followed on the simulator
+##### These steps will be followed on the simulator
 
 1. The experiment begins with clicking the Start Button in Simulator.
 
