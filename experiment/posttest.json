@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. We can also create webpage layout using ‹div› tag. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. Indentation while writing the code increases readability as well as modifiability of the code.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Select the html tag required for the designing a web page layout.",
+	"answers": {
+		"a": "table",
+		"b": "image",
+		"c": "a",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q4. Inserting a table inside another table is called ____________.",
+	"answers": {
+		"a": "linked tables",
+		"b": "nested tables",
+		"c": "clubbed tables",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q5. Select the correct attribute to be used with body tag for inserting image in the background of web page.",
+	"answers": {
+		"a": "background",
+		"b": "body bgimg",
+		"c": "body image",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}]
