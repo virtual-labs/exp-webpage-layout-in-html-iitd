@@ -98,11 +98,11 @@
     },
 
     {
-      question: "Q3. Select the html tag required for the designing a web page layout.",
+      question: "Q3. Which of the following elements are used to define a webpage?",
       answers: {
-        a: "table",
-        b: "image",
-        c: "a",
+        a: "&lt;header&gt;",
+        b: "&lt;section&gt;",
+        c: "&lt;aside&gt;",
         d: "All of the above"      
       },
       correctAnswer: "d"
@@ -120,11 +120,11 @@
     },
 	
 	{
-      question: "Q5. Select the correct attribute to be used with body tag for inserting image in the background of web page.",
+      question: "Q5. It specifies a way in which the web pages can be arranged.",
       answers: {
-        a: "background",
-        b: "body bgimg",
-        c: "body image",
+        a: "Content",
+        b: "Table layout",
+        c: "Web page layout",
         d: "None of the above"
       },
       correctAnswer: "c"
