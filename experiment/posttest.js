@@ -122,12 +122,12 @@
 	{
       question: "Q5. It specifies a way in which the web pages can be arranged.",
       answers: {
-        a: "Content",
+        a: "Web page layout",
         b: "Table layout",
-        c: "Web page layout",
+        c: "Content",
         d: "None of the above"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
   ];
 
