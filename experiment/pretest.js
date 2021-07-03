@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. Can we use table tag for creating webpage layout? State True Or False.",
+      question: "Q2. Can we use &lt;table&gt; tag for creating webpage layout? State True Or False.",
       answers: {
         a: "True",
         b: "False"
