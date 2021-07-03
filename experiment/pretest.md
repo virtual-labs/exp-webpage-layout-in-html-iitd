@@ -12,7 +12,7 @@ B   False<br>
 Q3. Which tag is used to define an independent self-contained article?<br>
 A  &lt;header&gt;<br>
 <b>B  &lt;article&gt;</b><br>
-C &lt;aside&gt<br>
+C &lt;aside&gt;<br>
 D  None of the above<br>
 
 Q4. Which tag is used to define a heading for the &lt;details&gt; element?<br>
