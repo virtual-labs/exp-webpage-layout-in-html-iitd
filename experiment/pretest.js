@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Q3. Which tag used to define an independent self-contained article.",
+      question: "Q3. Which tag is used to define an independent self-contained article?",
       answers: {
         a: "&lt;header&gt;",
         b: "&lt;article&gt;",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Q4. Which tag is used to define a heading for the &lt;details&gt; element",
+      question: "Q4. Which tag is used to define a heading for the &lt;details&gt; element?",
       answers: {
         a: "&lt;details&gt;",
         b: "&lt;header&gt;",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Q5. Which tag is used to create largest heading in webpage layout.",
+      question: "Q5. Which tag is used to create largest heading in webpage layout?",
       answers: {
         a: "&lt;h1&gt;",
         b: "&lt;h2&gt;",
