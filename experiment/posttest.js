@@ -111,9 +111,9 @@
 	{
       question: "Q4. Inserting a table inside another table is called ____________.",
       answers: {
-        a: "linked tables",
-        b: "nested tables",
-        c: "clubbed tables",
+        a: "Linked tables",
+        b: "Nested tables",
+        c: "Clubbed tables",
         d: "None of the above"      
       },
       correctAnswer: "b"
