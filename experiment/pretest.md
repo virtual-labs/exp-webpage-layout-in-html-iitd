@@ -5,7 +5,7 @@ Q1. Webpage layout is very important to give better look to your website. State 
 <b>A  True<br></b>
 B   False<br>
 
-Q2. Can we use table tag for creating webpage layout? State True Or False.<br>
+Q2. Can we use &lt;table&gt; tag for creating webpage layout? State True Or False.<br>
 <b>A  True<br></b>
 B   False<br>
 
