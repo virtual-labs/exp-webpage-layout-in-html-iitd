@@ -15,7 +15,7 @@ Following are different HTML5 elements which are used to define the different pa
 - **&lt;aside&gt;:** It is used to define content aside from the content (like a sidebar)
 - **&lt;footer&gt;:** It is used to define a footer for a document or a section
 - **&lt;details&gt;:** It is used to define additional details
-- **&lt;summary&gt;:** It is used to define a heading for the <details> element
+- **&lt;summary&gt;:** It is used to define a heading for the &lt;details&gt; element
 
  
  
