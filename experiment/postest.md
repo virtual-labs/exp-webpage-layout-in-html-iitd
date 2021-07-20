@@ -8,7 +8,7 @@ Q2.  Indentation while writing the code increases readability as well as modifia
 <b>A  True<br></b>
 B   False<br>
 
-Q3. Which of the following elements are used to define a webpage?<br>
+Q3. Which of the following elements are used in a webpage?<br>
 A  &lt;header&gt;<br>
 B  &lt;section&gt;<br>
 C &lt;aside&gt;<br>
