@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Q3. Which of the following elements are used to define a webpage?",
+      question: "Q3. Which of the following elements are used in a webpage?",
       answers: {
         a: "&lt;header&gt;",
         b: "&lt;section&gt;",
