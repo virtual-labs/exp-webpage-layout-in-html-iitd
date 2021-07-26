@@ -13,12 +13,12 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q3. Which tag is used to define an independent self-contained article?",
+	"question": "Q3. Bottom most part of a webpage is called as ___________",
 	"answers": {
-		"a": "&lt;header&gt;",
-		"b": "&lt;article&gt;",
-		"c": "&lt;aside&gt;",
-		"d": "None of the above"
+		"a": "Bottom",
+		"b": "Footer",
+		"c": "Both",
+		"d": "None"
 	},
 	"correctAnswer": "b"
 }, {
