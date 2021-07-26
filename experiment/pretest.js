@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. Can we use &lt;table&gt; tag for creating webpage layout? State True Or False.",
+      question: "Q2. We can use &lt;table&gt; tag for creating webpage layout? State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,22 +98,22 @@
     },
 
     {
-      question: "Q3. Which tag is used to define an independent self-contained article?",
+      question: "Q3. Bottom most part of a webpage is called as ___________",
       answers: {
-        a: "&lt;header&gt;",
-        b: "&lt;article&gt;",
-        c: "&lt;aside&gt;",
+        a: "Bottom",
+        b: "Footer",
+        c: "Both",
         d: "None of the above"
       },
       correctAnswer: "b"
     },
 	
 	{
-      question: "Q4. Which tag is used to define a heading for the &lt;details&gt; element?",
+      question: "Q4. Which tag is used to define smallest heading in a webpage layout",
       answers: {
-        a: "&lt;details&gt;",
-        b: "&lt;header&gt;",
-        c: "&lt;summary&gt;",
+        a: "h1",
+        b: "h",
+        c: "h6",
         d: "None of the above"
       },
       correctAnswer: "c"
@@ -122,9 +122,9 @@
 	{
       question: "Q5. Which tag is used to create largest heading in webpage layout?",
       answers: {
-        a: "&lt;h1&gt;",
-        b: "&lt;h2&gt;",
-        c: "&lt;h3&gt;",
+        a: "h1",
+        b: "h",
+        c: "h6",
         d: "None of the above"
       },
       correctAnswer: "a"

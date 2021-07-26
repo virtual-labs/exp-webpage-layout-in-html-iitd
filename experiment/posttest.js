@@ -100,9 +100,9 @@
     {
       question: "Q3. Which of the following elements are used in a webpage?",
       answers: {
-        a: "&lt;header&gt;",
-        b: "&lt;section&gt;",
-        c: "&lt;aside&gt;",
+        a: "Header",
+        b: "Menus",
+        c: "Footer",
         d: "All of the above"      
       },
       correctAnswer: "d"
