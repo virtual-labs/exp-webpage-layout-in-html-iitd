@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. We can also create webpage layout using ‹div› tag. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. Indentation while writing the code increases readability as well as modifiability of the code.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3.  Which of the following elements are used in a webpage?",
+	"answers": {
+		"a": "Header",
+		"b": "Menus",
+		"c": "Footer",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q4. Inserting a table inside another table is called ____________.",
+	"answers": {
+		"a": "Linked tables",
+		"b": "Nested tables",
+		"c": "Clubbed tables",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q5. It specifies a way in which the web pages can be arranged.",
+	"answers": {
+		"a": "Web page layout",
+		"b": "Table layout",
+		"c": "Content",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}]

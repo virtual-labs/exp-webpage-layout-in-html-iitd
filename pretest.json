@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. Webpage layout is very important to give better look to your website. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. We can use &lt;table&gt; tag for creating webpage layout? State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Bottom most part of a webpage is called as ___________",
+	"answers": {
+		"a": "Bottom",
+		"b": "Footer",
+		"c": "Both",
+		"d": "None"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. Which tag is used to define smallest heading in a webpage layout",
+	"answers": {
+		"a": "h1",
+		"b": "h",
+		"c": "h6",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q5. Which tag is used to create largest heading in webpage layout.",
+	"answers": {
+		"a": "h1",
+		"b": "h",
+		"c": "h6",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}]
